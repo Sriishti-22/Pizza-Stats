@@ -1,5 +1,4 @@
 # Pizza-Stats
-# **Pizza Sales Dashboard - Excel Project**  
 
 ## **Project Overview**  
 This project is an interactive **Pizza Sales Dashboard** built in Microsoft Excel. It analyzes pizza sales data, identifies sales trends, and visualizes key business insights using Excel functionalities like **Pivot Tables**, **Charts**, and **Slicers**.
