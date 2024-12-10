@@ -25,7 +25,7 @@ This project is an interactive **Pizza Sales Dashboard** built in Microsoft Exce
 ---
 ## **Dashboard Preview**  
 Include an image of your final dashboard here. For example:  
-![Pizza Sales Dashboard Preview](link-to-image.png)  
+![Pizza Sales Dashboard Preview](https://github.com/Sriishti-22/Pizza-Stats/blob/main/Dashboard.png)  
 
 ---
 
